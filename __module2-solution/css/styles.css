@@ -30,6 +30,7 @@
             border-style: none none solid solid;
             padding: 5px;
             border-width: 1px;
+            width: 1000px;
           }
           .beef {
           	position: absolute;
